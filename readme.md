@@ -10,12 +10,11 @@ Este é um projeto simples para gerenciar um sorteio de amigo secreto. Ele permi
 
 ## Como usar
 
-1. Clone o repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador.
-3. Use o campo de entrada para adicionar nomes de amigos.
-4. Clique no botão "Adicionar Amigo" para adicionar o nome à lista.
-5. Clique no botão "Mostrar Amigos" para exibir a lista de amigos adicionados.
-6. Clique no botão "Sortear Amigo" para sortear um amigo aleatoriamente da lista.
+1. Acesso o link: https://marcospr3421.github.io/challenge-amigo-secreto_pt-main.
+2. Use o campo de entrada para adicionar nomes de amigos.
+3. Clique no botão "Adicionar Amigo" para adicionar o nome à lista.
+4. Clique no botão "Mostrar Amigos" para exibir a lista de amigos adicionados.
+5. Clique no botão "Sortear Amigo" para sortear um amigo aleatoriamente da lista.
 
 ## Estrutura do Projeto
 
